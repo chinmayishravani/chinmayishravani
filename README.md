@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Chinmayi Shravani Yellanki
 
-<!--
-**chinmayishravani/chinmayishravani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student at PES University, Bengaluru (2023 to 2027). I enjoy building things and understanding how they actually work. I am hardworking, enthusiastic, and focused on delivering results on everything I take on.
 
-Here are some ideas to get you started:
+What I'm interested in
+Machine learning and computer vision
+Retrieval-augmented generation (RAG) and LLM applications
+Explainable and trustworthy AI
+Full-stack development and building software that is properly tested
+Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Research Intern, cHEAL Research Center, PES University (Jun 2025 to Jul 2025) Worked on a multi-agent nail disease detection and consultation system. Built an EfficientNetV2-S image classifier for six nail conditions and contributed to a RAG pipeline with Mistral-7B that generates medically grounded explanations. Reached about 82% validation accuracy. A manuscript is in preparation.
+
+Club Head, WEAL (Mental Health Club), PES University Leading a student-run mental health awareness club on campus.
+
+Projects
+
+CoachLM An AI interview coach with memory. Uses an Interviewer Agent and an Evaluator Agent to simulate technical and HR interviews. I built the RAG module that retrieves relevant interview questions using embedding-based similarity. Python Flask React MySQL Groq LLM RAG
+
+Internship-tracker A full-stack placement and internship management platform with student applications, job offers, alumni listings and interview reviews. Eligibility rules are enforced with SQL triggers and stored procedures. Flask MySQL React TypeScript
+
+Study-Buddy A Pomodoro-based study app that filters browser content for relevance to a study topic and blocks distractions, while still giving users override options. I built the "Other Options" feature (Search Later and a 2-Minute Buffer). Java JavaFX
+
+Mini-UnionFS A userspace union file system that merges a read-only base layer with a writable overlay, using Copy-on-Write and whiteout files. I implemented the Copy-on-Write mechanism. C FUSE Linux
+
+Digital-clock A digital clock built in Python as a first-semester project. Python
+
+<!-- Once the nail disease repo is pushed, delete the comment markers around the block below. **[Nail Disease Detection](https://github.com/chinmayishravani/nail-disease-detection)** Multi-agent system that classifies six nail conditions from images and explains the result using a RAG pipeline with Mistral-7B. `Python` `TensorFlow` `EfficientNetV2-S` `RAG` -->
+Tech I work with
+
+Languages: Python, C, SQL
+
+Used in projects: Java, JavaScript, TypeScript, React, Flask, MySQL, TensorFlow, LangChain, Linux
+
+Get in touch
+
+LinkedIn
