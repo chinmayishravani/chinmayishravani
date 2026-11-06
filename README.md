@@ -45,12 +45,11 @@ Computer Science Engineering student at PES University, Bengaluru (2023 to 2027)
  
 - Digital clock built in Python as a first-semester project
 - Tech: `Python`
-<!--
-Once the nail disease repo is pushed, delete the comment markers around the block below.
+
 ### [Nail Disease Detection](https://github.com/chinmayishravani/nail-disease-detection)
 - Multi-agent system that classifies six nail conditions from images and explains the result using a RAG pipeline with Mistral-7B
 - Tech: `Python` `TensorFlow` `EfficientNetV2-S` `RAG`
--->
+
  
 ## Tech I work with
  
